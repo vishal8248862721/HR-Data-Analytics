@@ -29,6 +29,7 @@ Continuously monitor and update your HR analytics dashboards as new data becomes
 Tableau provides a wide range of resources, tutorials, and community support to help you in the process of HR data analysis. You can also explore more advanced features like calculated fields, parameters, and LOD (Level of Detail) expressions to gain deeper insights into your HR data.
 
 
+![image](https://github.com/vishal8248862721/HR-Data-Analytics/assets/131672732/9a401a84-5c31-4099-bd01-e48a8f963cec)
 
 
 
